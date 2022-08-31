@@ -1,0 +1,17 @@
+127.0.0.1 - - [19/Nov/2019:11:58:32 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:41 +0530] "GET /demo/home.jsp HTTP/1.1" 200 2253
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:41 +0530] "GET /demo/home.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:41 +0530] "GET /demo/images/news1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:41 +0530] "GET /demo/images/bloodicon.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:41 +0530] "GET /demo/images/news4.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:41 +0530] "GET /demo/images/news3.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:41 +0530] "GET /demo/images/news2.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:42 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:11:58:46 +0530] "GET /demo/camp.jsp HTTP/1.1" 200 1444
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:12:00:27 +0530] "GET /demo/bank.jsp HTTP/1.1" 200 1559
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:12:00:32 +0530] "GET /demo/register.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:12:03:24 +0530] "GET /demo/register.jsp?username=pranesh&password=1234&name=p&dob=1999-02-12&sex=male&bg=apos&mail=hsechf%40gmail.com&city=bangalore&address=rr+3c&phone=351564416 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:12:03:24 +0530] "GET /demo/memberlogin.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:12:03:25 +0530] "GET /demo/images/loginavatar.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:12:07:46 +0530] "GET /demo/aboutus.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:12:08:41 +0530] "GET /demo/memberlogin.html? HTTP/1.1" 200 2631

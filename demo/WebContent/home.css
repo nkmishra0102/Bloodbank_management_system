@@ -1,0 +1,143 @@
+.topbar
+{
+	background-color: black;
+	height: 120px;
+	color: white;
+	text-align: center;
+	font-size: 100px;
+}#logo-image
+{
+	float: left;
+}
+ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;font-size: 28px;
+}
+
+li 
+{
+  float: left;
+}
+
+li a 
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li nav-button:hover 
+{
+  background-color: #111;
+}
+li a:hover 
+{
+  background-color: #111;
+}
+.nav-button
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #333;
+  border: none;
+  font-size: 28px
+}
+.button-2 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  height: 300px;
+  width: 30%;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  float: left;
+  font-size: 50px;
+  border-radius: 10px;
+}
+
+
+.button1 {
+  background-color: orange; 
+  color: black; 
+  border: 2px solid #f44336;
+  text-shadow: 2px 2px 5px red;
+}
+
+.button1:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+.button2 {
+  background-color: orange; 
+  color: black; 
+  border: 2px solid #f44336;
+  
+}
+
+.button2:hover {
+  background-color: #f44336;
+  color: white;
+}
+.button3 {
+  background-color: orange; 
+  color: black; 
+  border: 2px solid #f44336;
+  
+}
+
+.button3:hover {
+  background-color: #f44336;
+  color: white;
+}
+.button4 {
+  background-color: orange; 
+  color: black; 
+  border: 2px solid #f44336;
+  
+}
+
+.button4:hover {
+  background-color: #f44336;
+  color: white;
+}
+.news{
+  height: 605px;
+  width: 35%;
+  float: right;
+  padding-top: 5px;
+}
+
+.main{
+	height: 620px;
+}
+.th-bar{
+  height: 300px;
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+  
+}
+.th-bar-par{
+  height: 300px;
+  width: 65%;
+  float: right;background-color: red;
+}

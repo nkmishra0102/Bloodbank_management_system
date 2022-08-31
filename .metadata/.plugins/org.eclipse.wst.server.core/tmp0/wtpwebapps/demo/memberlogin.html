@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		.topbar
+{
+	background-color: black;
+	height: 120px;
+	color: white;
+	text-align: center;
+	font-size: 100px;
+}#logo-image
+{
+	float: left;
+}
+ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;font-size: 28px;
+}
+
+li 
+{
+  float: left;
+}
+
+li a 
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li nav-button:hover 
+{
+  background-color: #111;
+}
+li a:hover 
+{
+  background-color: #111;
+}
+.nav-button
+{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #333;
+  border: none;
+  font-size: 28px
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+.loginform {border: 3px solid #f1f1f1;}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.loginbutton {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 25%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+</style>
+	
+</head>
+<body>
+<div class="topbar">
+		<img src="images/bloodicon.jpg" height="120px" width="120px" id="logo-image">
+	
+	
+		<span>Blood Bank Of India</span>
+	</div>
+	
+<ul>
+  <li><a href="home.jsp">Home</a></li>
+  <li><a href="#">Contact Us</a></li>
+  <li><a href="aboutus.html">About Us</a></li>
+  <li><a href="faq.html">FAQ's</a></li>
+ <li><a href="memberlogin.html">Member Login</a></li>
+  <li><form><button class="nav-button">Admin Login</button></form></li>
+  <li><form><button class="nav-button">Log Out</button></form></li>
+</ul>
+
+<form action="memberlogin.jsp" method="post" class="loginform">
+  <div class="imgcontainer">
+    <img src="images/loginavatar.png" alt="Avatar" class="avatar">
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+        
+    <button class="loginbutton" type="submit" value="submit">Login</button>
+    
+  </div>
+
+  
+</form>
+</body>
+</html>

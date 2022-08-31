@@ -1,0 +1,325 @@
+
+Nov 16, 2019 14:03:55.44 NEW SESSION
+Nov 16, 2019 14:03:55.44 [276:12988:1116/140355.440:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Nov 18, 2019 10:41:28.34 NEW SESSION
+Nov 18, 2019 10:41:28.34 [4192:11720:1118/104128.162:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 18, 2019 10:41:37.26 [4192:22008:1118/104137.259:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 10:42:02.93 [4192:22008:1118/104202.932:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 10:42:04.38 [4192:3316:1118/104204.385:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Nov 18, 2019 10:42:52.47 [4192:22008:1118/104252.471:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 10:44:24.86 [4192:22008:1118/104424.868:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 10:47:24.12 [4192:22008:1118/104724.124:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+
+Nov 18, 2019 13:28:33.37 NEW SESSION
+Nov 18, 2019 13:28:33.37 [5684:2256:1118/132833.369:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 18, 2019 13:28:41.17 [5684:12452:1118/132841.173:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 13:29:10.84 [5684:12452:1118/132910.839:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 13:30:01.90 [5684:12452:1118/133001.905:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 13:31:50.29 [88:8268:1118/133150.293:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 18, 2019 13:32:02.64 [88:4876:1118/133202.641:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 13:32:28.12 [88:4876:1118/133228.123:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 13:33:27.22 [88:4876:1118/133327.228:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 16:28:39.91 [88:11716:1118/162839.913:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 18, 2019 16:28:40.91 [88:4876:1118/162840.913:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 18, 2019 16:28:57.74 [88:4876:1118/162857.745:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 18, 2019 16:29:07.88 [88:11716:1118/162907.888:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 18, 2019 16:29:49.88 [88:11716:1118/162949.885:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 18, 2019 16:31:16.36 [88:11716:1118/163116.358:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 18, 2019 16:57:51.86 [88:11716:1118/165751.860:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 18, 2019 16:57:54.04 [88:4876:1118/165751.865:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+
+Nov 19, 2019 11:58:40.63 NEW SESSION
+Nov 19, 2019 11:58:40.63 [26472:4196:1119/115840.621:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 19, 2019 12:09:49.82 [26472:25476:1119/120949.821:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.674 s for first_image_paint 0.613 s
+Nov 19, 2019 12:09:50.83 [26472:25476:1119/120950.831:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.674 s for first_image_paint 0.613 s
+Nov 19, 2019 12:09:51.83 [26472:25476:1119/120951.831:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.674 s for first_image_paint 0.613 s
+Nov 19, 2019 12:09:53.21 [26472:25476:1119/120953.219:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.674 s for first_image_paint 0.613 s
+Nov 19, 2019 12:09:53.75 [26472:25476:1119/120953.749:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.674 s for first_image_paint 0.613 s
+Nov 19, 2019 12:57:18.06 [26472:18504:1119/125718.063:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 12:57:23.25 [26472:18504:1119/125723.253:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 19, 2019 12:57:34.47 [26472:18504:1119/125734.472:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+
+Nov 20, 2019 14:26:32.47 NEW SESSION
+Nov 20, 2019 14:26:32.48 [24940:18308:1120/142632.475:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 20, 2019 14:26:49.61 [18912:29972:1120/142649.613:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Nov 20, 2019 23:44:33.69 NEW SESSION
+Nov 20, 2019 23:44:33.69 [10904:25712:1120/234433.670:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 21, 2019 24:06:43.48 [10904:30304:1121/000643.484:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 21, 2019 24:06:47.33 [10904:30304:1121/000647.329:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 21, 2019 24:13:05.59 [10904:30304:1121/001305.597:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 21, 2019 24:13:46.03 [10904:30304:1121/001346.030:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Nov 21, 2019 24:14:07.36 [10904:30304:1121/001407.366:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 21, 2019 24:14:10.18 [10904:30304:1121/001410.187:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 21, 2019 24:19:28.54 [10904:30304:1121/001928.541:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 21, 2019 01:46:03.02 [10904:17840:1121/014603.025:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 21, 2019 01:46:05.35 [10904:30304:1121/014603.029:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+
+Nov 21, 2019 18:44:33.21 NEW SESSION
+Nov 21, 2019 18:44:33.21 [33416:23640:1121/184433.215:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Nov 21, 2019 21:35:31.15 NEW SESSION
+Nov 21, 2019 21:35:31.15 [14528:28252:1121/213531.155:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 21, 2019 22:01:59.86 [14528:6932:1121/220159.865:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 21, 2019 22:02:01.54 [14528:6932:1121/220201.542:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 21, 2019 22:13:34.86 [14528:6932:1121/221334.865:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+
+Nov 27, 2019 20:24:22.13 NEW SESSION
+Nov 27, 2019 20:24:22.13 [31640:29528:1127/202422.121:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Nov 28, 2019 18:32:44.22 NEW SESSION
+Nov 28, 2019 18:32:44.22 [31384:26216:1128/183244.220:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 28, 2019 18:41:07.09 [31384:15664:1128/184107.098:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 28, 2019 18:41:09.55 [31384:15664:1128/184109.550:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 28, 2019 19:18:59.69 [31384:5684:1128/191859.697:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 28, 2019 19:19:02.19 [31384:15664:1128/191859.707:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2019 19:19:28.78 [31384:5684:1128/191928.782:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 28, 2019 19:19:33.61 [31384:5684:1128/191933.618:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Nov 28, 2019 19:19:42.39 [31384:15664:1128/191942.392:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Nov 28, 2019 19:27:25.86 [1480:37568:1128/192725.860:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 28, 2019 19:39:51.76 [37532:35464:1128/193951.765:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 28, 2019 20:35:09.25 [37532:34440:1128/203509.257:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 28, 2019 20:35:10.61 [37532:34440:1128/203510.609:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 28, 2019 21:40:23.32 [37532:24788:1128/214023.320:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 28, 2019 21:40:25.27 [37532:34440:1128/214023.552:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2019 23:14:39.63 [37532:34440:1128/231439.634:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 28, 2019 23:14:41.74 [37532:34440:1128/231441.747:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 29, 2019 24:12:29.61 [37532:24788:1129/001229.612:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 24:12:30.62 [37532:34440:1129/001230.626:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 29, 2019 01:28:58.63 [37532:24788:1129/012858.629:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 01:29:01.01 [37532:34440:1129/012858.629:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 29, 2019 03:41:45.23 [37532:34440:1129/034145.231:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 29, 2019 03:41:46.62 [37532:34440:1129/034146.622:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 29, 2019 04:37:00.52 [37532:34440:1129/043700.523:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 29, 2019 04:37:39.64 [37532:34440:1129/043739.639:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Nov 29, 2019 05:59:53.51 [37532:34440:1129/055953.511:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 29, 2019 05:59:56.64 [37532:34440:1129/055956.640:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 29, 2019 09:38:25.20 [37532:34440:1129/093825.201:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 29, 2019 09:38:25.30 [37532:34440:1129/093825.302:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 29, 2019 09:38:27.08 [37532:11620:1129/093825.305:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 09:38:27.10 [37532:24788:1129/093825.310:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 09:38:49.91 [37532:24788:1129/093849.911:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 13:07:48.35 [37532:34440:1129/130748.353:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Nov 29, 2019 13:07:48.42 [37532:34440:1129/130748.357:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:08:16.19 [37532:34440:1129/130816.196:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:09:22.52 [37532:34440:1129/130922.527:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:11:14.94 [37532:34440:1129/131114.949:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:14:34.02 [37532:34440:1129/131434.026:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:20:09.61 [37532:34440:1129/132009.618:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:30:15.62 [37532:34440:1129/133015.624:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:39:35.60 [37532:11620:1129/133935.604:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 13:40:21.63 [37532:34440:1129/134021.630:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:40:56.60 [37532:11620:1129/134056.609:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 13:42:49.61 [37532:11620:1129/134249.613:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 13:45:50.65 [37532:11620:1129/134550.653:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 13:50:21.63 [37532:34440:1129/135021.635:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 13:53:01.65 [37532:11620:1129/135301.659:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:00:21.63 [37532:34440:1129/140021.637:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 14:03:01.66 [37532:11620:1129/140301.662:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:07:31.05 [37532:24788:1129/140731.053:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:08:08.13 [37532:24788:1129/140808.130:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:08:56.56 [37532:24788:1129/140856.567:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:10:32.67 [37532:34440:1129/141032.675:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 14:10:33.66 [37532:24788:1129/141033.667:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:13:07.66 [37532:11620:1129/141307.668:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:13:38.59 [37532:24788:1129/141338.598:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:20:38.68 [37532:34440:1129/142038.680:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 14:21:20.94 [37532:24788:1129/142120.941:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:23:07.67 [37532:11620:1129/142307.672:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:30:49.71 [37532:34440:1129/143049.718:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 14:31:26.94 [37532:24788:1129/143126.946:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:33:07.67 [37532:11620:1129/143307.676:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:40:49.72 [37532:34440:1129/144049.722:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 14:41:32.95 [37532:24788:1129/144132.951:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:43:13.68 [37532:11620:1129/144313.682:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:51:00.76 [37532:34440:1129/145100.759:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 14:51:38.95 [37532:24788:1129/145138.956:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 14:53:24.72 [37532:11620:1129/145324.722:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:55:21.88 [37532:34440:1129/145521.884:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 14:55:21.89 [37532:11620:1129/145521.885:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:55:50.37 [37532:34440:1129/145550.369:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 14:56:01.40 [37532:11620:1129/145601.406:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 14:56:01.41 [37532:11620:1129/145601.409:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:00:27.93 [37532:34440:1129/150027.935:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 15:00:27.94 [37532:11620:1129/150027.937:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:00:33.58 [37532:34440:1129/150033.579:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Nov 29, 2019 15:00:44.57 [37532:34440:1129/150044.576:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 15:00:44.58 [37532:11620:1129/150044.577:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:00:55.61 [37532:11620:1129/150055.616:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:01:44.96 [37532:24788:1129/150144.960:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 15:03:24.72 [37532:11620:1129/150324.725:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:10:50.58 [37532:34440:1129/151050.581:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 15:11:56.00 [37532:24788:1129/151156.008:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 15:13:30.73 [37532:11620:1129/151330.729:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:21:01.62 [37532:34440:1129/152101.626:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 15:22:02.01 [37532:24788:1129/152202.012:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 15:23:41.76 [37532:11620:1129/152341.768:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:31:12.67 [37532:34440:1129/153112.672:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 15:32:08.01 [37532:24788:1129/153208.016:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 15:53:18.95 [37532:24788:1129/155318.958:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 15:53:21.01 [37532:11620:1129/155319.049:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:53:21.97 [37532:34440:1129/155320.266:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 29, 2019 15:53:58.73 [37532:34440:1129/155358.733:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 15:53:59.00 [37532:11620:1129/155358.734:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 15:54:03.48 [37532:34440:1129/155403.485:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 15:54:03.49 [37532:11620:1129/155403.485:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 16:03:18.96 [37532:24788:1129/160318.962:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 16:03:19.05 [37532:11620:1129/160319.052:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 16:04:03.48 [37532:34440:1129/160403.487:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 17:22:32.30 [37532:11620:1129/172232.305:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 17:22:32.35 [37532:24788:1129/172232.308:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 29, 2019 17:22:34.09 [37532:34440:1129/172234.089:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Nov 29, 2019 17:23:15.71 [37532:34440:1129/172315.718:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Nov 29, 2019 17:23:15.73 [37532:11620:1129/172315.736:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 17:23:18.76 [37532:34440:1129/172318.762:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Nov 29, 2019 17:23:26.76 [37532:34440:1129/172326.762:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 17:23:26.77 [37532:11620:1129/172326.763:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 17:23:37.80 [37532:11620:1129/172337.801:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 17:25:54.49 [37532:34440:1129/172554.497:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 17:25:57.52 [37532:11620:1129/172557.526:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 17:26:00.52 [37532:34440:1129/172600.529:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 17:26:00.54 [37532:11620:1129/172600.530:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 17:26:00.55 [37532:11620:1129/172600.534:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 17:26:08.73 [37532:34440:1129/172608.729:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Nov 29, 2019 17:26:20.74 [37532:34440:1129/172620.740:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Nov 29, 2019 17:26:20.75 [37532:11620:1129/172620.742:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Nov 29, 2019 17:26:26.74 [37532:11620:1129/172626.746:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+
+Nov 30, 2019 10:05:40.89 NEW SESSION
+Nov 30, 2019 10:05:40.89 [37300:28952:1130/100540.887:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Dec 07, 2019 10:10:51.27 NEW SESSION
+Dec 07, 2019 10:10:51.27 [43472:44416:1207/101051.201:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Dec 07, 2019 10:10:59.63 [43472:45660:1207/101059.637:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 10:11:22.96 [43472:45660:1207/101122.960:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 10:12:10.92 [43472:45660:1207/101210.919:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 10:13:41.68 [43472:45660:1207/101341.681:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 10:17:39.85 [43472:45660:1207/101739.850:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 10:23:23.17 [43472:44856:1207/102323.169:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 07, 2019 10:23:45.79 [43472:44856:1207/102345.798:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 07, 2019 10:24:27.69 [43472:44856:1207/102427.694:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 07, 2019 10:25:13.57 [43472:45660:1207/102513.575:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 10:26:03.80 [43472:44856:1207/102603.805:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 08, 2019 24:06:30.24 [43472:45660:1208/000630.243:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 08, 2019 24:06:30.29 [43472:44856:1208/000630.254:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 08, 2019 10:26:08.66 [43472:45660:1208/102608.662:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 08, 2019 10:26:08.67 [43472:44856:1208/102608.662:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 08, 2019 10:26:25.58 [43472:44856:1208/102625.589:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 08, 2019 10:26:43.62 [43472:45660:1208/102643.624:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+
+Dec 10, 2019 21:25:05.46 NEW SESSION
+Dec 10, 2019 21:25:05.46 [5356:28440:1210/212505.276:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Dec 10, 2019 21:29:51.76 [5356:27960:1210/212951.763:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 10, 2019 21:29:54.57 [5356:27960:1210/212954.575:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 10, 2019 22:28:57.03 [5356:11332:1210/222857.036:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 10, 2019 22:28:59.39 [5356:27960:1210/222857.511:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+
+Jan 14, 2020 20:50:43.55 NEW SESSION
+Jan 14, 2020 20:50:43.55 [44264:49684:0114/205043.543:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jan 14, 2020 20:50:51.18 [44264:39784:0114/205051.188:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 20:50:51.20 [44264:39784:0114/205051.189:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 20:51:16.39 [44264:39784:0114/205116.397:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 20:51:20.62 [44264:39784:0114/205120.620:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 20:52:03.43 [44264:39784:0114/205203.430:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 20:52:11.06 [44264:39784:0114/205211.062:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 20:53:55.29 [44264:39784:0114/205355.294:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 20:53:55.74 [44264:39784:0114/205355.739:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 20:57:13.09 [44264:39784:0114/205713.093:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 20:57:19.52 [44264:49192:0114/205719.520:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 14, 2020 20:57:32.91 [44264:39784:0114/205732.916:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 20:57:41.02 [44264:49192:0114/205741.025:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 14, 2020 20:58:39.93 [44264:49192:0114/205839.939:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 14, 2020 21:00:20.83 [44264:49192:0114/210020.831:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 14, 2020 21:06:10.53 [43648:8292:0114/210610.534:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jan 14, 2020 21:06:11.37 [43648:45328:0114/210611.370:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 21:06:11.38 [43648:45328:0114/210611.370:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 21:06:37.44 [43648:45328:0114/210637.445:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 21:06:39.42 [43648:45328:0114/210639.420:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 21:07:04.49 [43648:48712:0114/210704.494:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 14, 2020 21:07:20.34 [43648:45328:0114/210720.339:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 21:07:23.31 [43648:45328:0114/210723.317:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 21:07:25.32 [43648:48712:0114/210725.326:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 14, 2020 21:08:09.69 [43648:48712:0114/210809.689:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Jan 14, 2020 21:08:49.00 [43648:45328:0114/210849.006:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Jan 14, 2020 21:09:14.96 [43648:45328:0114/210914.964:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2020 21:10:09.38 [43648:48712:0114/211009.379:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Jul 12, 2020 13:59:28.80 NEW SESSION
+Jul 12, 2020 13:59:28.80 [28324:676:0712/135928.767:ERROR:external_registry_loader_win.cc(160)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+
+Sep 28, 2020 16:57:51.28 NEW SESSION
+Sep 28, 2020 16:57:51.28 [24372:6664:0928/165751.182:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Sep 28, 2020 16:57:51.47 [15196:23376:0928/165751.443:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Sep 28, 2020 16:57:51.53 [24372:18864:0928/165751.224:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Sep 28, 2020 16:57:51.55 [15196:23376:0928/165751.443:ERROR:cache_util.cc(139)] Unable to move cache folder C:\Users\hp\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\hp\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Sep 28, 2020 16:57:51.58 [15196:23376:0928/165751.443:ERROR:disk_cache.cc(184)] Unable to create cache
+Sep 28, 2020 16:57:51.60 [15196:23376:0928/165751.443:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Sep 28, 2020 16:57:51.71 Opening in existing browser session.
+
+Oct 27, 2020 13:49:07.27 NEW SESSION
+Oct 27, 2020 13:49:07.27 [31528:18076:1027/134907.252:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Oct 27, 2020 13:49:21.67 [31528:7216:1027/134921.674:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 13:49:21.68 [31528:7216:1027/134921.674:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Oct 27, 2020 13:49:21.68 [31528:7216:1027/134921.675:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Oct 27, 2020 13:49:44.90 [31528:13548:1027/134944.905:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Oct 27, 2020 13:49:45.75 [31528:13548:1027/134945.751:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Oct 27, 2020 13:49:49.30 [31528:7216:1027/134949.303:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Oct 27, 2020 13:49:50.47 [31528:7216:1027/134950.477:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 13:49:50.67 [31528:7216:1027/134950.671:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Oct 27, 2020 13:50:39.37 [31528:7216:1027/135039.372:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Oct 27, 2020 13:50:46.68 [31528:7216:1027/135046.685:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Oct 27, 2020 13:50:48.97 [31528:7216:1027/135048.979:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 13:52:21.73 [31528:7216:1027/135221.736:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Oct 27, 2020 13:52:37.59 [31528:7216:1027/135237.597:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Oct 27, 2020 13:52:42.77 [31528:7216:1027/135242.777:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jan 06, 2021 09:44:56.73 NEW SESSION
+Jan 06, 2021 09:44:56.73 [15056:8104:0106/094456.128:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Jan 06, 2021 09:45:18.48 [15056:15380:0106/094518.483:ERROR:device_event_log_impl.cc(211)] [09:45:18.482] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 06, 2021 09:45:18.48 [15056:15380:0106/094518.483:ERROR:device_event_log_impl.cc(211)] [09:45:18.483] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 06, 2021 09:54:51.30 [0106/095451.306:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Jan 07, 2021 03:02:12.85 [15056:7732:0107/030212.851:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 07, 2021 03:02:13.22 [15056:10572:0107/030213.132:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 07, 2021 11:03:17.51 [15056:7732:0107/110317.511:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 07, 2021 11:03:20.66 [15056:13652:0107/110320.668:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 07, 2021 11:03:26.39 [15056:15380:0107/110326.396:ERROR:device_event_log_impl.cc(211)] [11:03:26.397] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Jan 07, 2021 11:03:39.15 [15056:7732:0107/110339.152:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 07, 2021 11:03:50.21 [15056:7732:0107/110350.215:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 07, 2021 11:03:50.21 [15056:9992:0107/110350.215:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 07, 2021 11:04:01.28 [15056:9992:0107/110401.282:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 07, 2021 11:04:06.22 [15056:15380:0107/110406.221:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Jan 07, 2021 11:04:06.78 [15056:15380:0107/110406.783:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+
+Nov 12, 2021 11:00:56.02 NEW SESSION
+Nov 12, 2021 11:00:56.02 [13772:14560:1112/110056.024:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Nov 12, 2021 11:00:58.58 [13772:2468:1112/110058.585:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Nov 12, 2021 11:00:58.58 [13772:2468:1112/110058.585:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+Nov 12, 2021 11:00:58.58 [13772:2468:1112/110058.585:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Nov 12, 2021 11:00:58.58 [13772:2468:1112/110058.586:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+Nov 12, 2021 11:00:58.58 [13772:2364:1112/110058.589:ERROR:device_event_log_impl.cc(214)] [11:00:58.589] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 12, 2021 11:00:58.58 [13772:2364:1112/110058.589:ERROR:device_event_log_impl.cc(214)] [11:00:58.589] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 12, 2021 11:08:03.80 [13772:3428:1112/110803.668:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Nov 12, 2021 11:08:07.26 [13772:2364:1112/110807.267:ERROR:device_event_log_impl.cc(214)] [11:08:07.274] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Nov 12, 2021 11:08:24.77 [13772:3428:1112/110824.776:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2021 11:09:53.24 [13772:3428:1112/110953.244:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2021 11:12:50.47 [13772:3428:1112/111250.475:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+Nov 12, 2021 11:19:13.11 [13772:3428:1112/111913.115:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+
+Aug 31, 2022 14:18:38.52 NEW SESSION
+Aug 31, 2022 14:18:38.52 [23340:20500:0831/141838.487:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\EagleGet\addon\eagleget_newtab.crx for key Software\Google\Chrome\Extensions\hdkdmoacnkphoadmfidlhfdobieblphn does not exist or is not readable.
+Aug 31, 2022 14:18:47.61 [23340:29448:0831/141847.618:ERROR:device_event_log_impl.cc(214)] [14:18:47.618] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 31, 2022 14:18:47.62 [23340:29448:0831/141847.623:ERROR:device_event_log_impl.cc(214)] [14:18:47.622] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Aug 31, 2022 14:19:39.76 [23340:29444:0831/141939.762:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Aug 31, 2022 14:33:11.01 [23340:29448:0831/143311.012:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 31, 2022 14:40:05.65 [23340:29448:0831/144005.657:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 31, 2022 14:40:36.68 [23340:29448:0831/144036.688:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 31, 2022 14:47:40.67 [23340:29448:0831/144740.677:ERROR:device_event_log_impl.cc(214)] [14:47:40.677] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 31, 2022 14:47:40.73 [23340:29448:0831/144740.734:ERROR:device_event_log_impl.cc(214)] [14:47:40.734] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Aug 31, 2022 14:47:40.93 [23340:29448:0831/144740.938:ERROR:device_event_log_impl.cc(214)] [14:47:40.939] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 31, 2022 14:49:01.39 [23340:29448:0831/144901.393:ERROR:device_event_log_impl.cc(214)] [14:49:01.392] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 31, 2022 14:49:01.43 [23340:29448:0831/144901.434:ERROR:device_event_log_impl.cc(214)] [14:49:01.434] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Aug 31, 2022 14:49:01.55 [23340:29448:0831/144901.553:ERROR:device_event_log_impl.cc(214)] [14:49:01.552] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 31, 2022 14:56:26.59 [23340:29448:0831/145626.592:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 31, 2022 14:56:47.32 [23340:29448:0831/145647.320:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Aug 31, 2022 14:56:49.67 [23340:29448:0831/145649.677:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
