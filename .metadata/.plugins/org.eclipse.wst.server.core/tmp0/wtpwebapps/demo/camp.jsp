@@ -72,7 +72,7 @@ catch(Exception e)
 <%
 try {
 	Class.forName("com.mysql.jdbc.Driver");
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","nk0102");
+	Connection con=DriverManager.getConnection("url","username","password");
 	Statement st=con.createStatement();
 	ResultSet rs=st.executeQuery("select * from camp;");
 	while(rs.next())
