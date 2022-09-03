@@ -27,7 +27,7 @@ String mail=request.getParameter("mail");
 		response.setHeader("Pragma","no-cache");	
 
 	Class.forName("com.mysql.jdbc.Driver");
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","nk0102");
+	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","root");
 	Statement st=con.createStatement();
 	ResultSet rs;
 	int i= st.executeUpdate("insert into blood_bank(name,address,city,mail,phone) values('"+name+"','"+address+"','"+city+"','"+mail+"','"+phno+"')");

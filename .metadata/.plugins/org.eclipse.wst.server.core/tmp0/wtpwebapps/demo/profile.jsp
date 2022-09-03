@@ -63,7 +63,7 @@ catch(Exception e)
 try {
 	String a= (String)session.getAttribute("key");
 	Class.forName("com.mysql.jdbc.Driver");
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","nk0102");
+	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","root");
 	Statement st=con.createStatement();
 	ResultSet rs=st.executeQuery("select * from mem_details where username='"+a+"';");
 	rs.next();

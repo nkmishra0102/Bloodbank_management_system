@@ -25,7 +25,7 @@ String mail= request.getParameter("mail");
 
  try {
 	Class.forName("com.mysql.jdbc.Driver");
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","nk0102");
+	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","root");
 	Statement st=con.createStatement();
 	ResultSet rs;
 	int i= st.executeUpdate("insert into mem_details(username,password,name,address,bg,phno,city,sex,dob,mail) values('"+username+"','"+password+"','"+name+"','"+address+"','"+bg+"','"+phno+"','"+city+"','"+sex+"','"+dob+"','"+mail+"')");

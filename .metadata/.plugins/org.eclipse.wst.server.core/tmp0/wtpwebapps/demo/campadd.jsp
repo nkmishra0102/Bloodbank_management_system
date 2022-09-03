@@ -27,7 +27,7 @@ String dob=request.getParameter("dob");
 		response.setHeader("Pragma","no-cache");	
 
 	Class.forName("com.mysql.jdbc.Driver");
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","nk0102");
+	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","root");
 	Statement st=con.createStatement();
 	ResultSet rs;
 	int i= st.executeUpdate("insert into camp(name,date,address,city,contact) values('"+name+"','"+dob+"','"+address+"','"+city+"','"+phno+"')");

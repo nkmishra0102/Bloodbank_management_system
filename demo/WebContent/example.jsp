@@ -11,7 +11,7 @@
 <% String s= request.getParameter("username");
 try {
 	Class.forName("com.mysql.jdbc.Driver");
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/buraj","root","nk0102");
+	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/buraj","root","root");
 	Statement st=con.createStatement();
 	int i=0;
 	i=st.executeUpdate("insert into ex(pass) values('"+s+"')");

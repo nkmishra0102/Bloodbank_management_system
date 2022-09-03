@@ -10,7 +10,7 @@ String id=request.getParameter("id");
 try
 {
 Class.forName("com.mysql.jdbc.Driver");
-Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/blood", "root", "nk0102");
+Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/blood", "root", "root");
 Statement st=conn.createStatement();
 int i=st.executeUpdate("delete from blood_bank where name='"+id+"';");
 response.sendRedirect("bankupdate.jsp");

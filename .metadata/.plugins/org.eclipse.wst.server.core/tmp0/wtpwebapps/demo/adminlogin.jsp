@@ -29,7 +29,7 @@ String unam=request.getParameter("uname");
 String pass=request.getParameter("psw");
 try {
 	Class.forName("com.mysql.jdbc.Driver");
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","nk0102");
+	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","root");
 	Statement st=con.createStatement();
 	ResultSet rs=st.executeQuery("select username,password from admin where username='"+unam+"';");
 	rs.next();

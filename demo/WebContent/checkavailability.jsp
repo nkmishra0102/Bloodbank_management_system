@@ -61,7 +61,7 @@ String id=request.getParameter("id");
 try
 {
 Class.forName("com.mysql.jdbc.Driver");
-Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/blood", "root", "nk0102");
+Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/blood", "root", "root");
 Statement st=conn.createStatement();
 ResultSet rs=st.executeQuery("select *from availability where bname='"+id+"';");
 rs.next();

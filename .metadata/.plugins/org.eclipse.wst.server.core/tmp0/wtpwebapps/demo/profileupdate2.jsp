@@ -55,7 +55,7 @@ String quan=request.getParameter("quantity");
 	 
 
 	Class.forName("com.mysql.jdbc.Driver");
-	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","nk0102");
+	Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/blood","root","root");
 	Statement st=con.createStatement();
 	ResultSet rs;
 	int i= st.executeUpdate("insert into userprofile(username,bname,amount) values('"+name+"','"+bank+"','"+quan+"')");
